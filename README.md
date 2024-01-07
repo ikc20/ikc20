@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer
+Software Engineering Student
 
 
 ## 🌐 Socials:
