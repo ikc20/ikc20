@@ -1,3 +1,8 @@
+
+https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ikram&fontSize=90
+
+
+
 # 💻 Tech Stack:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
