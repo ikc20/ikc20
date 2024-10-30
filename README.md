@@ -1,6 +1,5 @@
 
-https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ikram&fontSize=90
-
+![Ikram](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ikram&fontSize=90)
 
 
 # 💻 Tech Stack:
